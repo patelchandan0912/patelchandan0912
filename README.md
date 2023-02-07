@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandan Patel</h1>
-<h3 align="center">Experience in data analysis, machine learning with a data science background. Pursuing master's degree in Business Analytics and Information Systems (University of South Florida) has provided me a solid foundation and a good intuition in Machine learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making, functions and data retrieval methods</h3>
+<h3 align="center">Experience in data analysis, machine learning with a data science background. Working for more than 11 Years in Heavy Engineering Corporation in India has provided me a solid foundation and a good intuition in Machine learning and Statistical Analysis. My previous roles offer me excellent communication skills and a great understanding of business, consumer behavior, and strategic decision making, functions and data retrieval methods</h3>
 <img align="right" alt="coding" width="250" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelchandan0912&label=Profile%20views&color=0e75b6&style=flat" alt="patelchandan0912" /> </p>
 
-- 🔭 I’m currently pursuing **master's in Business Analytics and Information Systems from the University of South Florida, Tampa**
+- 🔭 I’m currently pursuing **Master's in Business Analytics and Information Systems from the University of South Florida, Tampa**
 
 - 🌱 I’m currently learning **Big Data, Statistical Data Mining and Data Science Programming**
 
