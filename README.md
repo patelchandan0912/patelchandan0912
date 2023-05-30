@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelchandan0912&label=Profile%20views&color=0e75b6&style=flat" alt="patelchandan0912" /> </p>
 
 - 🔭 I’m currently pursuing **Master's in Business Analytics and Information Systems from the University of South Florida, Tampa**
+- 
+- 🔭 Working as Data Scientist **at AMGEN Inc.**
 
-- 🌱 I’m currently learning **Big Data, Statistical Data Mining and Data Science Programming**
+- 🔭 Worked as a Database Management Specialist **at TGH- USF PDI**
 
-- 👯 Part Time Work as a Database Management Specialist **at TGH- USF PDI**
+- - 🌱 I’m currently learning **Big Data, Statistical Data Mining and Data Science Programming**
 
 - 📫 How to reach me **chandanpatel@usf.edu, patel.chandan0912@gmail.com**
 
