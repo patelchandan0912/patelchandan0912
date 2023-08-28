@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chandan Patel</h1>
-<h3 align="center">With over 11 years of experience in data analysis and machine learning, I have gained a strong foundation and intuition in statistical analysis. Working in Heavy Engineering Corporation in India has further enriched my expertise in these areas. Additionally, my previous roles have equipped me with exceptional communication skills and deep knowledge of business operations, consumer behavior, and data retrieval methods</h3>
+<h3 align="center">With over 11 years of experience in data analysis and machine learning, I have gained a strong foundation and intuition in statistical analysis. Working at Heavy Engineering Corporation in India has further enriched my expertise in these areas. Additionally, my previous roles have equipped me with exceptional communication skills and deep knowledge of business operations, consumer behavior, and data retrieval methods</h3>
 <img align="right" alt="coding" width="250" src="https://www.element61.be/sites/default/files/img_competences/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelchandan0912&label=Profile%20views&color=0e75b6&style=flat" alt="patelchandan0912" /> </p>
 
 - 🔭 I’m currently pursuing **Master's in Business Analytics and Information Systems from the University of South Florida, Tampa**
 
-- 🔭 Working as Data Scientist **at AMGEN Inc.**
+- 🔭 Worked as Data Scientist- Grad Intern **at AMGEN Inc.**
 
-- 🔭 Worked as a Database Management Specialist **at TGH- USF PDI**
+- 🔭 Worked as a Database Management Specialist **at TGH-USF People Development Institute**
 
-- 🌱 I’m currently learning **Big Data, Text Analytics and Statistical Programming**
+- 🌱 I’m currently learning **Big Data, Text Analytics and Statistical Programming, Data Warehousing**
 
 - 📫 How to reach me **chandanpatel@usf.edu, patel.chandan0912@gmail.com**
 
