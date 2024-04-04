@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **Master's in Business Analytics and Information Systems from the University of South Florida, Tampa**
 
-- 🔭 Worked as Data Scientist- Grad Intern **at AMGEN Inc.**
+- 🔭 Working as Data Scientist **at AMGEN Inc.**
 
 - 🔭 Worked as a Database Management Specialist **at TGH-USF People Development Institute**
 
