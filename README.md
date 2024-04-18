@@ -13,6 +13,8 @@
 
 - 🔭 Worked as a Database Management Specialist **at TGH-USF People Development Institute**
 
+- 🔭 Worked as a Manager (Data Sciences - R&D) **at Heavy Engineering Corporation Limited, Ranchi, India**
+
 - 🌱 I’m currently wokring on areas like designing and develping Generative AI solutions in Operations - Global Supply Chain space and developing machine learning models **
 
 - 📫 How to reach me **chandanpatel@usf.edu, patel.chandan0912@gmail.com**
